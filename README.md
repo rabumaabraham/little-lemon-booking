@@ -30,7 +30,7 @@ It is a React web app that allows users to book a table at the Little Lemon rest
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/little-lemon-booking.git
+git clone https://github.com/rabumaabraham/little-lemon-booking.git
 
 2. Navigate into the project folder:
 
