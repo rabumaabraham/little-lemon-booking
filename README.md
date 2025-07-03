@@ -29,39 +29,30 @@ It is a React web app that allows users to book a table at the Little Lemon rest
 
 1. Clone the repository:
 
-\\\bash
+```bash
 git clone https://github.com/yourusername/little-lemon-booking.git
-\\\
 
 2. Navigate into the project folder:
 
-\`\`\`bash
 cd little-lemon-booking
-\`\`\`
 
 3. Install dependencies:
 
-\`\`\`bash
 npm install
-\`\`\`
 
 ### Running the App Locally
 
 Start the development server:
 
-\`\`\`bash
 npm start
-\`\`\`
 
 Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
 ### Running Tests
 
 To run unit tests:
-
-\`\`\`bash
 npm test
-\`\`\`
+```
 
 ## Usage
 
